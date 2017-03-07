@@ -1,0 +1,5 @@
+{
+    "require": {
+        "siftscience/sift-php": "^2.0"
+    }
+}

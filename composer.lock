@@ -1,0 +1,69 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "092fa2e1ec59c178d9f3f20085fae56b",
+    "packages": [
+        {
+            "name": "siftscience/sift-php",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SiftScience/sift-php.git",
+                "reference": "247494e01ec51f554f5ed60c69a2140e94673fc2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SiftScience/sift-php/zipball/247494e01ec51f554f5ed60c69a2140e94673fc2",
+                "reference": "247494e01ec51f554f5ed60c69a2140e94673fc2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "lib/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Lopatin"
+                },
+                {
+                    "name": "Yoav Schatzberg"
+                },
+                {
+                    "name": "Jacob Burnim"
+                }
+            ],
+            "description": "Sift Science PHP library",
+            "homepage": "https://github.com/SiftScience/sift-php",
+            "keywords": [
+                "fraud",
+                "php",
+                "sift",
+                "sift science"
+            ],
+            "time": "2016-09-29T18:07:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
